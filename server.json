@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/dbnomics",
+  "title": "Dbnomics",
+  "description": "DBnomics MCP — meta-aggregator over 80+ stats providers",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/dbnomics",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-dbnomics",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/dbnomics/mcp"
+    }
+  ]
+}
