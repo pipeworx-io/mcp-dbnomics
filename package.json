@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dbnomics",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "DBnomics MCP — meta-aggregator over 80+ stats providers",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8c730c99e39c4ed58f034b520bf2674488a94648ecbde65e1f0e631899ffc92e",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-6f5344e7d2baaac260e04a5157c2e608a2f13e98759c796ec9ff196cd04321b8",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
