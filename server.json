@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/dbnomics",
   "title": "Dbnomics",
   "description": "DBnomics MCP — meta-aggregator over 80+ stats providers",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/dbnomics",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dbnomics",
